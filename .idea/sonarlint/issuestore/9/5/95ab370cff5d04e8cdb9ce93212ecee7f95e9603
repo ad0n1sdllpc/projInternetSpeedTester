@@ -1,0 +1,103 @@
+
+e
+java:S1192¿"GDefine a constant instead of duplicating this literal "0 Mbps" 4 times.(Ï¥¡Î8¢… ö.
+E	java:S108r")Either remove or fill this block of code.(å¥‡8ƒöö.
+H
+java:S5411ß"*Use the primitive boolean expression here.(íï¯‚8¢… ö.
+Y
+java:S2696…"6Make the enclosing method "static" or remove this set.(¾ıèÛıÿÿÿÿ8¢… ö.
+c
+java:S2147‡"ECombine this catch with the one at line 901, which has the same body.(ï­£Ä8¢… ö.
+j
+java:S1192¼"GDefine a constant instead of duplicating this literal "0 MB/s" 4 times.(ÎÙò¹ùÿÿÿÿ8¢… ö.
+I
+java:S1659N",Declare "uploadTextView" on a separate line.(ƒ¨…Ó8ƒöö.
+l
+java:S2095è"NUse try-with-resources or close this "MyDatabaseHelper" in a "finally" clause.(ÏøÄ8¢… ö.
+@
+java:S1659L"#Declare "mhead" on a separate line.(ÿ¨É¢8ƒöö.
+H
+java:S5411Ê"*Use the primitive boolean expression here.(¹˜Ñ”8¢… ö.
+B
+java:S1659L"%Declare "fupload" on a separate line.(ÿ¨É¢8ƒöö.
+d
+java:S2142î"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8¢… ö.
+Y
+java:S2696 "6Make the enclosing method "static" or remove this set.(ıÿ±úÿÿÿÿ8¢… ö.
+d
+java:S2142Í"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8¢… ö.
+F	java:S108š")Either remove or fill this block of code.(Æ–Á•8¢… ö.
+j	java:S100·"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§ÂØ+8¢… ö.
+@
+java:S1659L"#Declare "fping" on a separate line.(ÿ¨É¢8ï‡èœö.
+F	java:S108¦")Either remove or fill this block of code.(å¥‡8¢… ö.
+¤
+java:S1186Â"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(«ÌñÈúÿÿÿÿ8¢… ö.
+M
+java:S5411ë"*Use the primitive boolean expression here.(½û‰Çùÿÿÿÿ8²ü«Ÿö.
+Y
+java:S2696‡"6Make the enclosing method "static" or remove this set.(†Úÿ şÿÿÿÿ8¢… ö.
+k	java:S100è"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬ø’ò8¢… ö.
+p	java:S100ø"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(øì‰€øÿÿÿÿ8¢… ö.
+V	java:S106¡"9Replace this use of System.out or System.err by a logger.(¹²¨­8¢… ö.
+F	java:S108Ì")Either remove or fill this block of code.(Æ–Á•8¢… ö.
+O
+java:S1659K"-Declare "type_of_network" on a separate line.(ç”‚êıÿÿÿÿ8ƒöö.
+F	java:S108Ò")Either remove or fill this block of code.(ä ¹€8¢… ö.
+F	java:S108Í")Either remove or fill this block of code.(ä ¹€8¢… ö.
+F	java:S108ß")Either remove or fill this block of code.(Æ–Á•8¢… ö.
+F	java:S108ù")Either remove or fill this block of code.(Æ–Á•8¢… ö.
+Y
+java:S2696Ò"6Make the enclosing method "static" or remove this set.(ıÿ±úÿÿÿÿ8¢… ö.
+{	java:S116K"ZRename this field "type_of_network" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ç”‚êıÿÿÿÿ8ƒöö.
+F	java:S108€")Either remove or fill this block of code.(Æ–Á•8¢… ö.
+F	java:S108û")Either remove or fill this block of code.(Æ–Á•8¢… ö.
+V	java:S106é"9Replace this use of System.out or System.err by a logger.(ÂûÈó8¢… ö.
+c
+java:S1192ª"FDefine a constant instead of duplicating this literal " Mbps" 4 times.(¨ÎÅ8¢… ö.
+D
+java:S1659L"'Declare "flocation" on a separate line.(ÿ¨É¢8ï‡èœö.
+r	java:S117o"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½©¸Ÿıÿÿÿÿ8ƒöö.
+L
+java:S1659K"*Declare "locationname" on a separate line.(ç”‚êıÿÿÿÿ8ƒöö.
+F	java:S108î")Either remove or fill this block of code.(ä ¹€8¢… ö.
+I
+java:S1659L",Declare "mdatametartype" on a separate line.(ÿ¨É¢8ƒöö.
+M
+java:S5411ê"*Use the primitive boolean expression here.(Í¾“úúÿÿÿÿ8¢… ö.
+s	java:S117ğ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(º‡íçıÿÿÿÿ8¢… ö.
+Ÿ
+java:S1186­"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¹‹Û8¢… ö.
+M
+java:S5411Û"*Use the primitive boolean expression here.(üÔƒ¾úÿÿÿÿ8¢… ö.
+H
+java:S5411"*Use the primitive boolean expression here.(ëµï›8¢… ö.
+K
+java:S1659N".Declare "downloadTextView" on a separate line.(ƒ¨…Ó8ƒöö.
+T
+java:S2696»"6Make the enclosing method "static" or remove this set.(éöìÅ8¢… ö.
+D
+java:S1659L"'Declare "fdownload" on a separate line.(ÿ¨É¢8ƒöö.
+d
+java:S2142Ò"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8¢… ö.
+P
+java:S1481¡"-Remove this unused "distance" local variable.(ìÏÖåıÿÿÿÿ8¢… ö.
+d
+java:S1192¨"FDefine a constant instead of duplicating this literal " MB/s" 3 times.(ª÷ñ8¢… ö.
+F	java:S108¯")Either remove or fill this block of code.(Æ–Á•8¢… ö.
+Ÿ
+java:S1186÷"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(”Ğ™8¢… ö.
+H
+java:S5411æ"*Use the primitive boolean expression here.(ëµï›8¢… ö.
+V	java:S106î"9Replace this use of System.out or System.err by a logger.(°Ù½¤8¢… ö.
+M
+java:S5411"*Use the primitive boolean expression here.(Í¾“úúÿÿÿÿ8²ü«Ÿö.
+C
+java:S1659O"&Declare "ratingme" on a separate line.(äğ¨8ï‡èœö.
+H
+java:S5411×"*Use the primitive boolean expression here.(‚ Éî8¢… ö.
+Y
+java:S2696¹"6Make the enclosing method "static" or remove this set.(œ°ğ±øÿÿÿÿ8¢… ö.
+D
+java:S1075û"&Remove this hard-coded path-delimiter.(ÅÙïç8¢… ö.
+F	java:S108ò")Either remove or fill this block of code.(Æ–Á•8¢… ö.
